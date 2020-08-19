@@ -60,5 +60,7 @@ function draw(){
     log5.display();
 
     bird.display();
+
+    //Display the platform on which the slingshot will stand.
     platform.display();
 }
